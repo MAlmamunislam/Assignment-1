@@ -185,6 +185,7 @@ nav .menubar a {
      border: 1px solid rgb(255, 230, 230);
      background-color: #FFFFFF;
      border-radius: 8px;
+     margin-bottom: 120px;
      
 }
 .section2 .card .scattered-notes-card h3{
@@ -196,4 +197,44 @@ nav .menubar a {
 .section2 .card .scattered-notes-card p{
      font-size: 16px;
      font-weight: 400;
+}
+.solution{
+     display: flex;
+     gap: 60px;
+     
+}
+.solution .tips{
+     display: flex;
+     gap: 6px;
+     align-items: center;
+}
+.solution .tips img{
+     height:20px ;
+     width: 20px;
+}
+.solution .solution-text .p-solve{
+     font-size: 16;
+     color: #469165;
+     margin-top: 220px;
+     margin-bottom: 16px;
+     
+}
+.solution .solution-text h1{
+     font-size: 48px;
+     font-weight: 900;
+     color: #001931;
+     margin-bottom: 16px;
+
+
+}
+ .solution .solution-text .Personal-khowladge{
+     font-size: 16px;
+     font-weight:  400 ;
+     color: #627382;
+     margin-bottom: 40px;
+ }
+.solution .tips .common-p{
+     font-size: 16px;
+     color: #001931;
+     margin-bottom: 16px;
 }
