@@ -201,6 +201,7 @@ nav .menubar a {
 .solution{
      display: flex;
      gap: 60px;
+     margin-bottom: 120px;
      
 }
 .solution .tips{
@@ -211,6 +212,7 @@ nav .menubar a {
 .solution .tips img{
      height:20px ;
      width: 20px;
+     
 }
 .solution .solution-text .p-solve{
      font-size: 16;
@@ -238,3 +240,47 @@ nav .menubar a {
      color: #001931;
      margin-bottom: 16px;
 }
+.clearly .clearly-container{
+     background-color: #F7F6F2;
+     padding: 40px;
+     width:1160px ;
+     height: 384px;
+     text-align: center;
+     align-items: center;
+     justify-items: center;
+     margin: 120px  120px;
+}
+.clearly .clearly-container h1{
+     font-size: 40px;
+     font-weight: 900;
+     color: #001931;
+     padding-top: 80px;
+}
+.clearly .clearly-container .Join-thousands{
+     font-size:16px;
+     font-weight: 400;
+     color: #627382;
+
+}
+.clearly .clearly-container button{
+     display: flex;
+     gap: 10px;
+     text-align: center;
+     justify-content: center;
+     align-items: center;
+     background-color: #469165;
+     border: 1px solid black;
+     border-radius: 4px;
+     
+}
+.clearly .clearly-container button p{ 
+     font-size: 16px;
+     font-weight: 600;
+     color: #FFFFFF;
+     
+}
+ .clearly .clearly-container .Free-during{
+     font-size: 16px;
+     font-weight: 400;
+     color: #627382;
+ }
